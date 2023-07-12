@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshminandu46" alt="lakshminandu46" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs,Machine Learning**
+- 🌱 I’m currently learning **Deep learning,React js**
 
 - 📫 How to reach me **lakshminandu46@gmail.com**
 
