@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lakshmi nandu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshminandu46&label=Profile%20views&color=0e75b6&style=flat" alt="lakshminandu46" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshminandu46" alt="lakshminandu46" /></a> </p>
 
-- 🌱 I’m currently learning **Deep learning,React js**
+- 🌱 I’m currently learning **MEAN STACK**
 
 - 📫 How to reach me **lakshminandu46@gmail.com**
 
